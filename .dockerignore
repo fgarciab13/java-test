@@ -1,0 +1,6 @@
+.idea
+.gitignore
+project/target
+project/test.iml
+README.md
+result.json

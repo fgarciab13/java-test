@@ -1,0 +1,28 @@
+-
+  id: 1
+  readings:
+    -
+      type: bloodPressure
+      diastolic: 91
+      heartRate: 137
+      systolic: 91
+    -
+      type: glucose
+      bloodSugarLevel: 152
+    -
+      type: weight
+      weight: 179
+-
+  id: 2
+  readings:
+    -
+      type: bloodPressure
+      diastolic: 149
+      heartRate: 134
+      systolic: 149
+    -
+      type: glucose
+      bloodSugarLevel: 230
+    -
+      type: weight
+      weight: 168
